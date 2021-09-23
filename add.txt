@@ -2,3 +2,5 @@ add
 edited by local
 Third!
 remote
+local
+
